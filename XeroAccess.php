@@ -48,7 +48,7 @@
 <body>
     <div class="auth-container">
         <h1>Access Xero</h1>
-        <a class="auth-btn" href="https://login.xero.com/identity/connect/authorize?response_type=code&client_id=BCD8984403E84080997975DB333B42E6&redirect_uri=http://localhost/Learing_Project/xerointegration/callback.php&scope=payroll.employees&state=YOUR_STATE">
+        <a class="auth-btn" href="https://login.xero.com/identity/connect/authorize?response_type=code&client_id=&redirect_uri=http://localhost/Learing_Project/xerointegration/callback.php&scope=payroll.employees&state=YOUR_STATE">
             Click to Get Access
         </a>
     
